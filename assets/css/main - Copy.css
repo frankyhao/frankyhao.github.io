@@ -117,6 +117,7 @@ input, select, textarea {
 	/* cyrillic */
 	@font-face {
 	  font-family: 'Bad Script';
+	  font-display: auto;
 	  font-style: normal;
 	  font-weight: 400;
 	  src: local('Bad Script Regular'), local('BadScript-Regular'), url(https://fonts.gstatic.com/s/badscript/v6/6NUT8F6PJgbFWQn47_x7pOskzA.woff2) format('woff2');
@@ -131,6 +132,7 @@ body{background: #eee ;font-family: 'Open Sans', sans-serif;}h3{font-size: 30px;
 /* latin */
 	@font-face {
 	  font-family: 'Bad Script';
+	  font-display: auto;
 	  font-style: normal;
 	  font-weight: 400;
  	 src: local('Bad Script Regular'), local('BadScript-Regular'), url(https://fonts.gstatic.com/s/badscript/v6/6NUT8F6PJgbFWQn47_x7pOskzA.woff2) format('woff2');

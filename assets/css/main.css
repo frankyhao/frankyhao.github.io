@@ -74,7 +74,8 @@ input, select, textarea {
 
 /* cyrillic */
 @font-face {
-    font-family: 'Bad Script';
+	font-family: 'Bad Script';
+	font-display: auto;
     font-style: normal;
     font-display: auto;
     font-weight: 400;
@@ -89,7 +90,8 @@ body{background: #eee ;font-family: 'Open Sans', sans-serif;}h3{font-size: 30px;
 
 /* latin */
 @font-face {
-    font-family: 'Bad Script';
+	font-family: 'Bad Script';
+	font-display: auto;
     font-style: normal;
     font-display: auto;
     font-weight: 400;

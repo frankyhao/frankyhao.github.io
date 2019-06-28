@@ -193,7 +193,8 @@ input, select, textarea {
 
 body, input, select, textarea {
     color: #a0a0a1;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-display: auto;
     font-size: 15pt;
     font-weight: 300;
     font-display: auto;
@@ -322,6 +323,7 @@ body, input, select, textarea {
 		background: #34363b;
 		border: solid 1px #36383c;
 		font-family: "Courier New", monospace;
+		font-display: auto;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -330,6 +332,7 @@ body, input, select, textarea {
 	pre {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
+		font-display: auto;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -690,6 +693,7 @@ body, input, select, textarea {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				font-family: FontAwesome;
+				font-display: auto;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -758,6 +762,7 @@ body, input, select, textarea {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
+			font-display: auto;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
